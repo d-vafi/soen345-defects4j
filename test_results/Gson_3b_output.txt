@@ -1,0 +1,10 @@
+== COMPILING ==
+Running ant (compile)...................................................... OK
+Running ant (compile.tests)................................................ OK
+
+== RUNNING TESTS ==
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 2
+  - com.google.gson.functional.MapTest::testConcurrentMap
+  - com.google.gson.functional.MapTest::testConcurrentNavigableMap
