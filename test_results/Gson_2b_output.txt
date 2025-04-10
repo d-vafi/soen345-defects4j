@@ -1,0 +1,9 @@
+== COMPILING ==
+Running ant (compile)...................................................... OK
+Running ant (compile.tests)................................................ OK
+
+== RUNNING TESTS ==
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 1
+  - com.google.gson.functional.DefaultTypeAdaptersTest::testJsonElementTypeMismatch
